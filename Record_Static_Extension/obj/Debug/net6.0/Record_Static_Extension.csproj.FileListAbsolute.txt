@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\bin\Debug\net6.0\Record_Static_Extension.exe
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\bin\Debug\net6.0\Record_Static_Extension.deps.json
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\bin\Debug\net6.0\Record_Static_Extension.runtimeconfig.json
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\bin\Debug\net6.0\Record_Static_Extension.dll
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\bin\Debug\net6.0\Record_Static_Extension.pdb
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.AssemblyInfo.cs
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.dll
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\refint\Record_Static_Extension.dll
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.pdb
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\Record_Static_Extension.genruntimeconfig.cache
+C:\Users\hp\Desktop\Record_Static_Extension\Record_Static_Extension\obj\Debug\net6.0\ref\Record_Static_Extension.dll
